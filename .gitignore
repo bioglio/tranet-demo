@@ -1,0 +1,13 @@
+## CUSTOM	
+data
+images
+util
+*.zip
+
+## PYTHON
+
+# Virtual environment
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
